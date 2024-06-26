@@ -1,0 +1,3 @@
+[submodule "AttMesUnity"]
+	path = AttMesUnity
+	url = git@github.com:MaelChakma/AttMesProjUnity.git
